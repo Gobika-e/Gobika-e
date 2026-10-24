@@ -1,20 +1,33 @@
-Hi, I'm Gobika! 👋
+Hi, I'm Gobika 👋
 
-🎓 AI & Data Science Student
+Artificial Intelligence & Data Science Student
 
-💻 Learning C, Python, and Java
+I'm an AI & Data Science student interested in software development, problem-solving, and emerging technologies. I'm continuously learning new concepts and improving my technical skills.
 
-🚀 Currently practicing programming and problem-solving.
+💻 Technical Skills
 
-My Projects
+- Languages: C, Python, Java
+- Tools: GitHub, OnlineGDB
+- Core Interests: Data Structures & Algorithms, Problem-Solving, Software Development
 
-- Hello World in C
-- Student Marks Analyzer in C
+🌱 Currently Learning
 
-My Goals
+- Strengthening programming fundamentals
+- Exploring Data Structures & Algorithms
+- Improving logical thinking and debugging
+- Learning to build practical software applications
 
-- Improve my coding skills
-- Learn Data Structures and Algorithms
-- Build more projects
+🎯 Career Goals
 
-Thanks for visiting my profile! 😊
+- Develop strong programming skills
+- Gain hands-on experience through practical learning
+- Contribute to collaborative projects
+- Prepare for software development internships and opportunities
+
+🤝 Connect With Me
+
+- GitHub: "Gobika-e" (https://github.com/Gobika-e)
+
+---
+
+Learning continuously. Growing through code. 🚀
