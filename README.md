@@ -59,3 +59,7 @@ Learning continuously. Growing through code. 🚀
 ![GitHub Streak](https://streak-stats.demolab.com?user=Gobika-e&theme=tokyonight&hide_border=true)
 
 
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gobika-e&theme=tokyonight&no-frame=true&row=1&column=6)
+
