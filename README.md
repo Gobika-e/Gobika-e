@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Gobika! 👋
 
-<!--
-**Gobika-e/Gobika-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student
 
-Here are some ideas to get you started:
+💻 Learning C, Python, and Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently practicing programming and problem-solving.
+
+My Projects
+
+- Hello World in C
+- Student Marks Analyzer in C
+
+My Goals
+
+- Improve my coding skills
+- Learn Data Structures and Algorithms
+- Build more projects
+
+Thanks for visiting my profile! 😊
