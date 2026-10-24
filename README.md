@@ -63,3 +63,12 @@ Learning continuously. Growing through code. 🚀
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gobika-e&theme=tokyonight&no-frame=true&row=1&column=6)
 
+---
+
+### 🖤Thank You for Visiting My Profile!
+
+✨ *Learning every day, growing every day.* 🚀
+
+Thanks for stopping by! 😊
+
+
