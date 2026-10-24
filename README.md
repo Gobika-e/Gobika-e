@@ -53,5 +53,9 @@ Learning continuously. Growing through code. 🚀
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gobika-e&show_icons=true&theme=tokyonight)
 
----
+
+## 🔥 GitHub Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Gobika-e&theme=tokyonight&hide_border=true)
+
 
